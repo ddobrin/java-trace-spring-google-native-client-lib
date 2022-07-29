@@ -1,7 +1,7 @@
 # java-trace-spring-google-native-client-lib
 This sample intends to show how you can build a [Spring Native](https://docs.spring.io/spring-native/docs/0.12.1/reference/htmlsingle/#overview) application leveraging the [Google Cloud Client Libraries for Java](https://cloud.google.com/java/docs/compile-native-images) support for native images.
 
-The sample is based on the [Cloud Trace Sample](https://github.com/googleapis/java-trace).
+The sample is based on the [Cloud Trace Sample](https://github.com/googleapis/java-trace), with instructions to deploy to [Cloud Run](https://cloud.google.com/run) provided.
 
 Configuration:
 * Java 17
